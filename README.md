@@ -51,7 +51,7 @@
 # Реляционная модель:
 <img width="1062" height="1047" alt="Реляционная модель" src="https://github.com/user-attachments/assets/bef5c81c-5550-42e6-bde8-f37e10c81abd" />
 
-# Архитектура MVC:
+## 🧩 Архитектура приложения (MVC)
 isrdo/
 ├── models/ # Классы-сущности (Employee, Work, Assignment...)
 ├── views/ # Qt-окна и диалоги (LoginWindow, MainWindow...)
@@ -98,6 +98,3 @@ isrdo/
 <img width="845" height="528" alt="LMqG3wm1djdD30oCtTsfuQYOvBZILC8xjlfa-oEQWzr5jotb0J0nonbKJk4iw-A5NIiAbknl09JLTOMtXmaDRp27" src="https://github.com/user-attachments/assets/209372f1-a837-464d-b3f0-090c3d9b52b4" />
 
 <img width="1280" height="263" alt="7kwXZ1YDi_VoYqHJLfwPreIUm10ovr15XlWRgKib85gNzFQQ-xhqyVJ5KtHJDxdHbXjG25Fe2x9OQUiEieLd8nYh" src="https://github.com/user-attachments/assets/1f3c8bc6-1968-4695-be3b-ababff11694b" />
-
-
-## 🧩 Архитектура приложения (MVC)
