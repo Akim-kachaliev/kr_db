@@ -48,8 +48,15 @@
 # Первичная реляциооная модель:
 <img width="881" height="916" alt="Первичная_реляционная модель" src="https://github.com/user-attachments/assets/8ef80025-d914-4410-8133-ae102c260a20" />
 
-# Реляционная модель:
+# Итоговая реляционная модель:
 <img width="1062" height="1047" alt="Реляционная модель" src="https://github.com/user-attachments/assets/bef5c81c-5550-42e6-bde8-f37e10c81abd" />
+
+# Физическая модель
+<img width="886" height="1248" alt="image" src="https://github.com/user-attachments/assets/2d7978a2-b9c1-40d0-ba60-66ac57cacc30" />
+
+# UML-диаграмма
+<img width="974" height="552" alt="image" src="https://github.com/user-attachments/assets/5bcc8e8d-8897-4923-9b72-45d684c543b0" />
+
 
 ## 🧩 Архитектура приложения (MVC)
 isrdo/
