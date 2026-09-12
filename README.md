@@ -101,9 +101,15 @@ isrdo/
 
 # Итоговое приложение:
 <img width="588" height="593" alt="image" src="https://github.com/user-attachments/assets/c0a35f45-db47-422f-818a-1855d3adac4a" />
+
 <img width="729" height="575" alt="image" src="https://github.com/user-attachments/assets/565482d8-17af-44fc-a71b-5d69fd863673" />
+
 <img width="420" height="238" alt="image" src="https://github.com/user-attachments/assets/999915a1-4a0c-481e-aad9-0e6bb9af75f9" />
+
 <img width="974" height="630" alt="image" src="https://github.com/user-attachments/assets/8ab7bb01-13d5-4fbc-a28e-48a87d2e9c34" />
+
 <img width="400" height="239" alt="image" src="https://github.com/user-attachments/assets/757b6e72-83b2-44ca-931a-3e1854eee613" />
+
 <img width="741" height="245" alt="image" src="https://github.com/user-attachments/assets/f26c5ad7-b9d9-41ab-9007-531b7da4a189" />
+
 <img width="974" height="631" alt="image" src="https://github.com/user-attachments/assets/8e12658c-164f-4530-996c-46a329d05672" />
