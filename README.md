@@ -43,19 +43,23 @@
 - `Назначение` — связь сотрудников с задачами (с расчётом доплаты).
 
 # Инфологическая модель:
-<img width="1280" height="898" alt="Инфологическая модель" src="https://github.com/user-attachments/assets/a4792b27-2c9b-486c-bad8-ae8a2684f781" />
+<img width="886" height="621" alt="image" src="https://github.com/user-attachments/assets/6f245258-c14e-4040-87bc-c6bfbf9fb4bc" />
+
 
 # Первичная реляциооная модель:
-<img width="881" height="916" alt="Первичная_реляционная модель" src="https://github.com/user-attachments/assets/8ef80025-d914-4410-8133-ae102c260a20" />
+<img width="886" height="873" alt="image" src="https://github.com/user-attachments/assets/33fd6b47-d330-490b-a4af-e041d08e80b6" />
+
 
 # Итоговая реляционная модель:
-<img width="1062" height="1047" alt="Реляционная модель" src="https://github.com/user-attachments/assets/bef5c81c-5550-42e6-bde8-f37e10c81abd" />
+<img width="886" height="921" alt="image" src="https://github.com/user-attachments/assets/cb10e973-44c5-4585-b30c-c006448d1f42" />
+
 
 # Физическая модель
-<img width="886" height="1248" alt="image" src="https://github.com/user-attachments/assets/2d7978a2-b9c1-40d0-ba60-66ac57cacc30" />
+<img width="886" height="1248" alt="image" src="https://github.com/user-attachments/assets/c2a91ee5-5d9f-4946-9875-cd54de9ef1ee" />
+
 
 # UML-диаграмма
-<img width="974" height="552" alt="image" src="https://github.com/user-attachments/assets/5bcc8e8d-8897-4923-9b72-45d684c543b0" />
+<img width="963" height="794" alt="image" src="https://github.com/user-attachments/assets/3cbb054b-18c1-4982-870b-1aca327fa295" />
 
 
 ## 🧩 Архитектура приложения (MVC)
@@ -96,12 +100,10 @@ isrdo/
 Запустите приложение (Ctrl+R).
 
 # Итоговое приложение:
-<img width="736" height="752" alt="PmogKtplkSpviWGYajTymTwSCqarEOnRa8L4XwSNbguXyZEdtpVjkLMKNc88xzyPQ7cEKEUG-T69SxAuaeQRqr7P" src="https://github.com/user-attachments/assets/13a6107e-d836-42f7-8c94-f21acb6746ea" />
-
-<img width="1280" height="847" alt="NNaEyrk82Hxj-uS4LVSJgAtqPwz9Xh-YZqV9wrzwuoFWZrYA7CK0jnOsR1XGg6sHLMJ5I5S1nNpMagvjAG8cAZWT" src="https://github.com/user-attachments/assets/fca9d7cd-693f-4bd6-9bf2-c310283fbd25" />
-
-<img width="928" height="779" alt="7_E3eo1wqWvSUV-41wtrw3R1XsYX2CaZBzJun2P-jDinvSp29ihpyTkziJLnIHeOdjkeJ-_d6f75g8zuP6wLHkjb" src="https://github.com/user-attachments/assets/2bd35bad-b33a-43a1-8166-951747864435" />
-
-<img width="845" height="528" alt="LMqG3wm1djdD30oCtTsfuQYOvBZILC8xjlfa-oEQWzr5jotb0J0nonbKJk4iw-A5NIiAbknl09JLTOMtXmaDRp27" src="https://github.com/user-attachments/assets/209372f1-a837-464d-b3f0-090c3d9b52b4" />
-
-<img width="1280" height="263" alt="7kwXZ1YDi_VoYqHJLfwPreIUm10ovr15XlWRgKib85gNzFQQ-xhqyVJ5KtHJDxdHbXjG25Fe2x9OQUiEieLd8nYh" src="https://github.com/user-attachments/assets/1f3c8bc6-1968-4695-be3b-ababff11694b" />
+<img width="588" height="593" alt="image" src="https://github.com/user-attachments/assets/c0a35f45-db47-422f-818a-1855d3adac4a" />
+<img width="729" height="575" alt="image" src="https://github.com/user-attachments/assets/565482d8-17af-44fc-a71b-5d69fd863673" />
+<img width="420" height="238" alt="image" src="https://github.com/user-attachments/assets/999915a1-4a0c-481e-aad9-0e6bb9af75f9" />
+<img width="974" height="630" alt="image" src="https://github.com/user-attachments/assets/8ab7bb01-13d5-4fbc-a28e-48a87d2e9c34" />
+<img width="400" height="239" alt="image" src="https://github.com/user-attachments/assets/757b6e72-83b2-44ca-931a-3e1854eee613" />
+<img width="741" height="245" alt="image" src="https://github.com/user-attachments/assets/f26c5ad7-b9d9-41ab-9007-531b7da4a189" />
+<img width="974" height="631" alt="image" src="https://github.com/user-attachments/assets/8e12658c-164f-4530-996c-46a329d05672" />
